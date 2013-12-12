@@ -1,0 +1,4 @@
+starcoin
+========
+
+Cryptocurrency coin
